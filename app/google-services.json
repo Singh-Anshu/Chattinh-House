@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856554318603",
+    "project_id": "chattinghouse-b42cd",
+    "storage_bucket": "chattinghouse-b42cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856554318603:android:2423a858403865114c900e",
+        "android_client_info": {
+          "package_name": "com.anshusingh.chattinghouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856554318603-q5hmv3novtjilqrjooejg9nnhoai7ods.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxVrG0U0OvfW1sKNY8nt_rNSY8RbKP4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856554318603-q5hmv3novtjilqrjooejg9nnhoai7ods.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
